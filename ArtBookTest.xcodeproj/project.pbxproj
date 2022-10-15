@@ -17,6 +17,7 @@
 		64DAB7E228F9D40400BAB77B /* ArtBookTestTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 64DAB7E128F9D40400BAB77B /* ArtBookTestTests.swift */; };
 		64DAB7EC28F9D40400BAB77B /* ArtBookTestUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 64DAB7EB28F9D40400BAB77B /* ArtBookTestUITests.swift */; };
 		64DAB7EE28F9D40400BAB77B /* ArtBookTestUITestsLaunchTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 64DAB7ED28F9D40400BAB77B /* ArtBookTestUITestsLaunchTests.swift */; };
+		64DAB7FB28F9D7AB00BAB77B /* SecondViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 64DAB7FA28F9D7AB00BAB77B /* SecondViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -51,6 +52,7 @@
 		64DAB7E728F9D40400BAB77B /* ArtBookTestUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = ArtBookTestUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		64DAB7EB28F9D40400BAB77B /* ArtBookTestUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ArtBookTestUITests.swift; sourceTree = "<group>"; };
 		64DAB7ED28F9D40400BAB77B /* ArtBookTestUITestsLaunchTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ArtBookTestUITestsLaunchTests.swift; sourceTree = "<group>"; };
+		64DAB7FA28F9D7AB00BAB77B /* SecondViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SecondViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -104,6 +106,7 @@
 				64DAB7C728F9D40200BAB77B /* AppDelegate.swift */,
 				64DAB7C928F9D40200BAB77B /* SceneDelegate.swift */,
 				64DAB7CB28F9D40200BAB77B /* ViewController.swift */,
+				64DAB7FA28F9D7AB00BAB77B /* SecondViewController.swift */,
 				64DAB7CD28F9D40200BAB77B /* Main.storyboard */,
 				64DAB7D328F9D40400BAB77B /* Assets.xcassets */,
 				64DAB7D528F9D40400BAB77B /* LaunchScreen.storyboard */,
@@ -264,6 +267,7 @@
 				64DAB7CC28F9D40200BAB77B /* ViewController.swift in Sources */,
 				64DAB7C828F9D40200BAB77B /* AppDelegate.swift in Sources */,
 				64DAB7D228F9D40300BAB77B /* ArtBookTest.xcdatamodeld in Sources */,
+				64DAB7FB28F9D7AB00BAB77B /* SecondViewController.swift in Sources */,
 				64DAB7CA28F9D40200BAB77B /* SceneDelegate.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
